@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "photoapp",
+    "name": "Photo Studio",
     "slug": "photoapp",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -23,7 +23,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.mchljohn.photoapp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
