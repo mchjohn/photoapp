@@ -38,15 +38,15 @@ Para fazer o download do APK do app acesse a 👉 [Expo Store](https://exp-shell
 
 
 
-<img src="https://raw.githubusercontent.com/mchjohn/photoapp/main/src/assets/images/thumbnail_Screenshot_2021-05-22-13-54-51-344_host.exp.exponent.jpg" style="zoom:70%;" /> <img src="https://raw.githubusercontent.com/mchjohn/photoapp/main/src/assets/images/thumbnail_Screenshot_2021-05-22-13-55-02-866_host.exp.exponent.jpg" style="zoom:70%;" />
+<img src="https://raw.githubusercontent.com/mchjohn/photoapp/main/src/assets/images/thumbnail_Screenshot_2021-05-22-13-54-51-344_host.exp.exponent.jpg" style="zoom:70%;" /> <img src="https://raw.githubusercontent.com/mchjohn/photoapp/main/src/assets/images/thumbnail_Screenshot_2021-05-22-13-55-02-866_host.exp.exponent.jpg" style="zoom:50%;" />
 
 
 
-<img src="https://raw.githubusercontent.com/mchjohn/photoapp/main/src/assets/images/thumbnail_Screenshot_2021-05-22-13-55-11-679_host.exp.exponent.jpg" style="zoom:70%;" /> <img src="https://raw.githubusercontent.com/mchjohn/photoapp/main/src/assets/images/thumbnail_Screenshot_2021-05-22-13-55-25-653_host.exp.exponent.jpg" style="zoom:70%;" />
+<img src="https://raw.githubusercontent.com/mchjohn/photoapp/main/src/assets/images/thumbnail_Screenshot_2021-05-22-13-55-11-679_host.exp.exponent.jpg" style="zoom:70%;" /> <img src="https://raw.githubusercontent.com/mchjohn/photoapp/main/src/assets/images/thumbnail_Screenshot_2021-05-22-13-55-25-653_host.exp.exponent.jpg" style="zoom:50%;" />
 
 
 
-<img src="https://raw.githubusercontent.com/mchjohn/photoapp/main/src/assets/images/thumbnail_Screenshot_2021-05-22-13-55-54-463_host.exp.exponent.jpg" style="zoom:70%;" />
+<img src="https://raw.githubusercontent.com/mchjohn/photoapp/main/src/assets/images/thumbnail_Screenshot_2021-05-22-13-55-54-463_host.exp.exponent.jpg" style="zoom:50%;" />
 
 As imagens utilizadas no app são do site [Pexels](https://www.pexels.com/pt-br/) e estão armazenadas em uma [API que eu criei](https://appphoto-api.herokuapp.com/photos) e hospedei no [Heroku](https://www.heroku.com/).
 
