@@ -28,7 +28,7 @@
 
 - Leia o QR Code com o App Expo no seu smartphone ou inicie um emulador clicando nas opções laterais, Android ou iOS.
 
-  <img src="D:\programacao\projetos\photoapp\src\assets\images\run-emulator.png" style="zoom:50%;" />
+  <img src="D:\programacao\projetos\photoapp\src\assets\images\run-emulator.png" style="zoom:20%;" />
 
 Para fazer o download do APK do app acesse a 👉 [Expo Store](https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40mchljohn/photoapp-0e555444c09e4683b8d33f91ced93fa3-signed.apk).
 
